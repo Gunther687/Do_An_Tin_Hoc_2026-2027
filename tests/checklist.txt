@@ -1,0 +1,34 @@
+# Checklist nghiệm thu tuần 1–5
+
+## Tuần 1 – SRS và Git
+- [ ] Điền họ tên/lớp vào `docs/SRS_Tuan1.docx`
+- [ ] Tạo repository GitHub và push toàn bộ project
+- [ ] Commit: `docs: add week 1 SRS and project structure`
+
+## Tuần 2 – Thiết kế
+- [ ] Điền thông tin sinh viên vào `docs/Design_Tuan2.docx`
+- [ ] Bổ sung sơ đồ hình vẽ nếu giảng viên yêu cầu bản đồ họa
+- [ ] Commit: `docs: add week 2 system design`
+
+## Tuần 3 – AVL/BST
+- [ ] Thêm sách ISBN mới
+- [ ] Tìm sách theo ISBN
+- [ ] Xóa sách
+- [ ] In danh sách theo ISBN và theo tên
+- [ ] Commit: `feat: implement AVL and BST book management`
+
+## Tuần 4 – Hash Table
+- [ ] Thêm độc giả
+- [ ] Tìm độc giả theo CMND
+- [ ] Xóa độc giả
+- [ ] Thử nhiều CMND cùng bucket để kiểm tra separate chaining
+- [ ] So sánh Hash với tìm tuần tự
+- [ ] Commit: `feat: implement reader hash table`
+
+## Tuần 5 – Linked List, Dynamic Array, binary I/O
+- [ ] Tạo phiếu demo và xem danh sách
+- [ ] Đánh dấu phiếu đã trả (demo cấu trúc)
+- [ ] Thêm và xem lịch sử giao dịch
+- [ ] Lưu books.txt và readers.txt
+- [ ] Thoát, mở lại và tìm lại sách/độc giả
+- [ ] Commit: `feat: add loan list, transaction array and binary files`

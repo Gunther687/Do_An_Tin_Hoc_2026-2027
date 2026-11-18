@@ -1,0 +1,17 @@
+# Test cases Giai doan 2
+
+1. Them sach (ISBN) 1234 -> thanh cong.
+2. Them lai (ISBN) 1234 -> tu choi trung ma.
+3. Tim 1234 -> hien dung thong tin.
+4. Xoa B001 -> thanh cong; tim lai -> khong tim thay.
+5. In AVL -> thu tu ISBN tang dan.
+6. In BST -> thu tu ten sach tang dan.
+7. Them doc gia CMND A123  -> thanh cong.
+8. Them lai CMND A123 -> tu choi trung ma.
+9. Tim doc gia A123 bang Hash -> hien thong tin.
+10. Luu file -> tao data/books.txt va data/readers.txt.
+11. Thoat va mo lai -> du lieu sach/doc gia duoc nap lai.
+12. Them phieu muon -> node duoc them vao Linked List trong phien chay.
+13. Them giao dich -> Dynamic Array tang so phan tu va in duoc lich su.
+
+Ghi chu: Linked List phieu muon va Dynamic Array lich su la demo trong bo nho; file persistence o moc tuan 5 bat buoc voi sach va doc gia.
